@@ -2,8 +2,8 @@
 Glass Efect Three
 </p>
 
-<div align="center" style="margin-top: 50px; width: 450px; margin-inline: auto"  >
-<img src="./resources/img.png">
+<div align="center" style="margin-top: 50px; width: 850px; margin-inline: auto;"  >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxc3F0ZDJxY2JzY3Bvcmd3cnAwOWQzcm1ldWlzbnczOGgyMjY3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNKDKglWP1yyh7K3gT/giphy.gif">
 </div>
 
 # 3D Glass Effect Three
